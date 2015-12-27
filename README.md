@@ -4,4 +4,4 @@ This repository has the ui.R and server.R files for the first part of the Develo
 
 The app developed for the first part of the assignment is avalilable at: https://kcbaskar.shinyapps.io/Baskar
 
-Files for the presentation are avalilable on the GitHub: https://github.com/kcbaskar/DataProducts
+Files for the presentation are avalilable on the GitHub: https://github.com/kcbaskar/data_product
